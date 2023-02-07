@@ -1,0 +1,29 @@
+
+body{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0%;
+    padding: 0%;
+    background-color: hsl(212, 45%, 89%);
+}
+div{
+    margin-top: 100px;
+    margin-left: 500px;
+    margin-bottom: 5px;
+    padding: 20px;
+    width: 300px;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 15px;
+}
+div h3{
+    color: hsl(218, 44%, 22%);
+}
+div p{
+    color: hsl(220, 15%, 55%);
+}
+.container img{
+    width: 300px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
